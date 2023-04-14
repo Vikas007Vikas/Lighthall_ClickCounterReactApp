@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Lighthall_ClickCounterReactApp/static/css/main.e6c13ad2.css",
+    "main.js": "/Lighthall_ClickCounterReactApp/static/js/main.715f405e.js",
+    "static/js/787.c4a2cdae.chunk.js": "/Lighthall_ClickCounterReactApp/static/js/787.c4a2cdae.chunk.js",
+    "index.html": "/Lighthall_ClickCounterReactApp/index.html",
+    "main.e6c13ad2.css.map": "/Lighthall_ClickCounterReactApp/static/css/main.e6c13ad2.css.map",
+    "main.715f405e.js.map": "/Lighthall_ClickCounterReactApp/static/js/main.715f405e.js.map",
+    "787.c4a2cdae.chunk.js.map": "/Lighthall_ClickCounterReactApp/static/js/787.c4a2cdae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.715f405e.js"
+  ]
+}
